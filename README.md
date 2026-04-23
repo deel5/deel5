@@ -1,10 +1,13 @@
-## Hi 👋, I'm Hadeel
-![gif](mygif.gif)
+<div align="center">
+  <h1>Hi 👋, I'm Hadeel</h1>
+  <h3> Ai Developer </h3>
+  <p>📍 KSA </p>
+  <img src="mygif.gif" width="100%"/>
 
 
-<h3> Ai Developer </h3>
-<p>📍 KSA </p>
 
+
+</div> 
 
 
 
