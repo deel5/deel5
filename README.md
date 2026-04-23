@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Hadeel
 ![gif](mygif.gif)
 
 
-<h3> Ai Developer ></h3>
+<h3> Ai Developer </h3>
 <p>📍 KSA </p>
 
 
