@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![gif](mygif.gif)
 <!--
 **deel5/deel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
